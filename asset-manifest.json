@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-Sample/static/css/main.e6c13ad2.css",
+    "main.js": "/AI-Sample/static/js/main.b47ead8f.js",
+    "index.html": "/AI-Sample/index.html",
+    "main.e6c13ad2.css.map": "/AI-Sample/static/css/main.e6c13ad2.css.map",
+    "main.b47ead8f.js.map": "/AI-Sample/static/js/main.b47ead8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b47ead8f.js"
+  ]
+}
